@@ -3,3 +3,57 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+$cor-botao-verde: 16A34A;
+
+
+body {
+    font-family: "Poppins";
+}
+
+header {
+
+    h3 {
+
+    }
+
+    h5 {
+        display: flex;
+        text-align: center;
+        justify-content: end;
+    }
+
+    ul {
+        display:flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+
+
+}
+
+.section-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.section-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btnv {
+    color: $cor-botao-verde;
+}
+
+h5 {
+
+}
+
+.numeros{
+        display:flex;
+        justify-content: space-evenly;
+        align-items: center;
+}

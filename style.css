@@ -2,4 +2,41 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins";
+}
+
+header h5 {
+  display: flex;
+  text-align: center;
+  justify-content: end;
+}
+header ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.section-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.section-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btnv {
+  color: 16A34A;
+}
+
+.numeros {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */
